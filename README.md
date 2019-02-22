@@ -12,7 +12,7 @@
 
 ## Document
 
-[设计模式](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/设计模式.md)
+[设计模式](https://cyc2018.github.io/CS-Notes/#/notes/设计模式)
 
 ## UML
 
